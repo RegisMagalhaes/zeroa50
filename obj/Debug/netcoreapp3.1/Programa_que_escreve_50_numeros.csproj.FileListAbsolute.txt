@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Programa_que_escreve_50_numeros\bin\Debug\netcoreapp3.1\Programa_que_escreve_50_numeros.exe
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Programa_que_escreve_50_numeros\bin\Debug\netcoreapp3.1\Programa_que_escreve_50_numeros.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Programa_que_escreve_50_numeros\bin\Debug\netcoreapp3.1\Programa_que_escreve_50_numeros.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Programa_que_escreve_50_numeros\bin\Debug\netcoreapp3.1\Programa_que_escreve_50_numeros.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Programa_que_escreve_50_numeros\bin\Debug\netcoreapp3.1\Programa_que_escreve_50_numeros.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Programa_que_escreve_50_numeros\bin\Debug\netcoreapp3.1\Programa_que_escreve_50_numeros.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Programa_que_escreve_50_numeros\obj\Debug\netcoreapp3.1\Programa_que_escreve_50_numeros.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Programa_que_escreve_50_numeros\obj\Debug\netcoreapp3.1\Programa_que_escreve_50_numeros.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Programa_que_escreve_50_numeros\obj\Debug\netcoreapp3.1\Programa_que_escreve_50_numeros.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Programa_que_escreve_50_numeros\obj\Debug\netcoreapp3.1\Programa_que_escreve_50_numeros.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Programa_que_escreve_50_numeros\obj\Debug\netcoreapp3.1\Programa_que_escreve_50_numeros.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Programa_que_escreve_50_numeros\obj\Debug\netcoreapp3.1\Programa_que_escreve_50_numeros.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Programa_que_escreve_50_numeros\obj\Debug\netcoreapp3.1\Programa_que_escreve_50_numeros.genruntimeconfig.cache
